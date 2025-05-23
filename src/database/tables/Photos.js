@@ -1,0 +1,28 @@
+export const Photos = {
+    tableName: 'photos', tableFields: [
+        { columnName: 'id', dataType: 'INTEGER PRIMARY KEY AUTOINCREMENT' },
+        { columnName: 'shopId', dataType: 'BIGINT' },
+        { columnName: 'shopCode', dataType: 'VARCHAR(32)' },
+        { columnName: 'shopName', dataType: 'NVARCHAR(256)' },
+        { columnName: 'address', dataType: 'NVARCHAR(256)' },
+        { columnName: 'photoDate', dataType: 'INTEGER' },
+        { columnName: 'photoTime', dataType: 'INTEGER' },
+        { columnName: 'photoType', dataType: 'VARCHAR(32)' },
+        { columnName: 'reportId', dataType: 'INTEGER' },
+        { columnName: 'photoDesc', dataType: 'NVARCHAR(250)' },
+        { columnName: 'dataUpload', dataType: 'INTEGER' },
+        { columnName: 'fileUpload', dataType: 'INTEGER' },
+        { columnName: 'latitude', dataType: 'DECIMAL' },
+        { columnName: 'longitude', dataType: 'DECIMAL' },
+        { columnName: 'accuracy', dataType: 'DECIMAL' },
+        { columnName: 'gpsAddress', dataType: 'NVARCHAR(500)' },
+        { columnName: 'photoPath', dataType: 'VARCHAR(500)' },
+        { columnName: 'pathLocal', dataType: 'VARCHAR(500)' },
+        { columnName: 'guid', dataType: 'VARCHAR(32)' },
+        { columnName: 'photoName', dataType: 'VARCHAR(128)' },
+        { columnName: 'shiftCode', dataType: 'VARCHAR(32)' },
+        { columnName: 'sortList', dataType: 'INTEGER' },
+        { columnName: 'photoMore', dataType: 'NVARCHAR(4000)' },
+        { columnName: 'photoFullTime', dataType: 'VARCHAR(32)' },
+    ]
+}

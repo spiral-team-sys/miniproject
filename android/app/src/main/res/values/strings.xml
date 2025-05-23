@@ -1,0 +1,12 @@
+<resources>
+<!--    <string name="app_name">Spiral VPM</string>-->
+<!--        <string name="CodePushDeploymentKey" moduleConfig="true">8EACd9uk1Y-eL_HKprlub08Uy6lUNybJSzZsWg</string>-->
+        <string name="app_name">EOE 3.0</string>
+        <string name="CodePushDeploymentKey" moduleConfig="true">VkNwx0dlRPaqS6DvEP0VV7zXqxevNyAQXOA9be</string>
+    <!--    <string name="app_name">Carlsberg Adhoc</string>-->
+    <!--    <string name="CodePushDeploymentKey" moduleConfig="true">DeploymentKey Carlsberg</string>-->
+    <!--    <string name="app_name">Heineken Mer</string>-->
+    <!--    <string name="CodePushDeploymentKey" moduleConfig="true">DeploymentKey Heineken Mer</string>-->
+
+    <string name="CodePushServerUrl" moduleConfig="true">https://api.revopush.org</string>
+</resources>

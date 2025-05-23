@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--EOE-->
+    <color name="colorPrimary">#007F2D</color>
+    <color name="colorPrimaryDark">#007F2D</color>
+    <color name="colorAccent">#007f6c</color>
+    <!--Hmer-->
+    <!--    <color name="colorPrimary">#008200</color>-->
+    <!--    <color name="colorPrimaryDark">#008200</color>-->
+    <!--    <color name="colorAccent">#205527</color>-->
+    <!--Addhoc-->
+    <!--    <color name="colorPrimary">#2196F3</color>-->
+    <!--    <color name="colorPrimaryDark">#2196F3</color>-->
+    <!--    <color name="colorAccent">#009688</color>-->
+    <!--Acecook-->
+    <!--    <color name="colorPrimary">#fa0102</color>-->
+    <!--    <color name="colorPrimaryDark">#fa0102</color>-->
+    <!--    <color name="colorAccent">#ff785a</color>-->
+    <!--VPMilk-->
+    <!--    <color name="colorPrimary">#154f7d</color>-->
+    <!--    <color name="colorPrimaryDark">#154f7d</color>-->
+    <!--    <color name="colorAccent">#0c2f4d</color>-->
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+</resources>

@@ -1,0 +1,4 @@
+{
+    "ios": "revopush release-react <APPLICATION_NAME> ios -d Production",
+    "android": "revopush release-react <APPLICATION_NAME> android -d Production"
+}
