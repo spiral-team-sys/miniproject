@@ -103,7 +103,6 @@ const LoginScreen = ({ navigation }) => {
     return (
         <SafeAreaView style={styles.mainContainer}>
             <GradientBackground />
-            {/* // */}
             <View style={styles.contentHead}>
                 <Image
                     source={require('../../assets/images/logo_spiral_white.png')}
